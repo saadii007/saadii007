@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DSA,MERN,AI,ML**
 
-- 📫 Contact email **saadshabbirmukadam.rait@gmail.com**
+- 📫 Contact email:  **saadshabbirmukadam.rait@gmail.com**
 
 - 📄 Know about my experiences **--**
 
