@@ -52,7 +52,10 @@
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
 <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" /></a>  
 <a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="50" /></a>  
-<a href="https://canva.com/" target="_blank"><img style="margin: 10px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/canva-icon.png" alt="WordPress" height="50" /></a>
+<a href="https://canva.com/" target="_blank"><img style="margin: 10px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/canva-icon.png" alt="Canva" height="50" /></a>
+<a href="https://www.capcut.com/" target="_blank"><img style="margin: 10px" src="https://vectorseek.com/wp-content/uploads/2023/07/Capcut-Logo-Png-Vector.svg-.png" alt="Capcut" height="50" /></a>
+<a href="https://inshot.com/" target="_blank"><img style="margin: 10px" src="https://vectorseek.com/wp-content/uploads/2023/08/InShot-Logo-Vector.svg-.png" alt="Inshot" height="50" /></a> 
+<a href="https://reddit.com/" target="_blank"><img style="margin: 10px" src="https://vectorseek.com/wp-content/uploads/2023/12/Reddit-Icon-New-2023-Logo-Vector.svg-.png" alt="Reddit" height="50" /></a>   
 </div>
 
 </td></tr></table>  
