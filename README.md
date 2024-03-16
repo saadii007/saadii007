@@ -55,7 +55,8 @@
 <a href="https://canva.com/" target="_blank"><img style="margin: 10px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/canva-icon.png" alt="Canva" height="50" /></a>
 <a href="https://www.capcut.com/" target="_blank"><img style="margin: 10px" src="https://vectorseek.com/wp-content/uploads/2023/07/Capcut-Logo-Png-Vector.svg-.png" alt="Capcut" height="50" /></a>
 <a href="https://inshot.com/" target="_blank"><img style="margin: 10px" src="https://vectorseek.com/wp-content/uploads/2023/08/InShot-Logo-Vector.svg-.png" alt="Inshot" height="50" /></a> 
-<a href="https://reddit.com/" target="_blank"><img style="margin: 10px" src="https://vectorseek.com/wp-content/uploads/2023/12/Reddit-Icon-New-2023-Logo-Vector.svg-.png" alt="Reddit" height="50" /></a>   
+<a href="https://reddit.com/" target="_blank"><img style="margin: 10px" src="https://vectorseek.com/wp-content/uploads/2023/12/Reddit-Icon-New-2023-Logo-Vector.svg-.png" alt="Reddit" height="50" /></a>
+<a href="https://medium.com/" target="_blank"><img style="margin: 10px" src="https://miro.medium.com/v2/resize:fit:1400/1*psYl0y9DUzZWtHzFJLIvTw.png" alt="Medium" height="50" /></a>
 </div>
 
 </td></tr></table>  
