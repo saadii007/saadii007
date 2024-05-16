@@ -4,6 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saad-shabbir-8a3b&label=Profile%20views&color=0e75b6&style=flat" alt="saad-shabbir-8a3b" /> </p>
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 ### <div align="center">I'm Saad, student 👨‍💻 studing Computer Engineering 🚀</div>  
 
 - 🔭 I’m currently working on **--**
