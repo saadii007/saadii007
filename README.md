@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saad-shabbir-8a3b&label=Profile%20views&color=0e75b6&style=flat" alt="saad-shabbir-8a3b" /> </p>
 
-### <div align="center">I'm Saad, student at Ramrao Institute of Technology RAIT 👨‍💻 studing Computer Engineering 🚀</div>  
+### <div align="center">I'm Saad, student 👨‍💻 studing Computer Engineering 🚀</div>  
 
 - 🔭 I’m currently working on **--**
 
